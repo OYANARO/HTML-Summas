@@ -24,16 +24,20 @@
 }
 
 #name {
-    color: rgb(255, 142, 76);
+    color: rgb(152, 73, 255);
     font-size: 40px;
 }
 
 #last_name {
-    color: rgb(255, 34, 108);
+    color: rgb(27, 164, 255);
     font-size: 40px;
 }
 
 #backend_name {
     color: rgb(5, 139, 0);
     font-size: 30px;
+}
+
+#body {
+    background-color: rgb(255, 234, 209);
 }
