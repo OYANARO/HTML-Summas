@@ -1,0 +1,39 @@
+#message_me {
+    color: blueviolet;
+    font-size: 40px;
+}
+
+#Summary {
+    color: brown;
+    font-size: 40px;
+}
+
+#experience {
+    color: darkgoldenrod;
+    font-size: 40px;
+}
+
+#skills {
+    color: forestgreen;
+    font-size: 40px;
+}
+
+#contakts {
+    color: royalblue;
+    font-size: 40px;
+}
+
+#name {
+    color: rgb(255, 142, 76);
+    font-size: 40px;
+}
+
+#last_name {
+    color: rgb(255, 34, 108);
+    font-size: 40px;
+}
+
+#backend_name {
+    color: rgb(5, 139, 0);
+    font-size: 30px;
+}
